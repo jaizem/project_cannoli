@@ -1,5 +1,5 @@
-# project_cannoli
-Experimental VR game where the player can throw various pastries around their environment. 
+# Project Cannoli
+Experimental VR game where the player can throw various pastries around their environment. I will be updating my progress in this repository, hopefully providing a handy resource for others looking to explore indie VR game development. 
 
 ## Process
 - create unreal engine account
